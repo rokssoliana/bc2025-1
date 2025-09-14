@@ -1,1 +1,1 @@
-const username = "rokssoliana"; console.log(`Hello, ${username}`);
+console.log("Hello, rokssoliana");
